@@ -1,0 +1,14 @@
+.container {
+  height: 100vh;
+}
+
+.content {
+  padding: 20px;
+  background: #f4f6f8;
+  min-height: calc(100vh - 64px);
+}
+
+.logo {
+  text-align: center;
+  margin: 16px 0;
+}
